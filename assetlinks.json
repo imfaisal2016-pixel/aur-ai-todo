@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ai.meta.www.twa",
+        "sha256_cert_fingerprints": ["71:7F:42:59:12:0A:3E:4E:A0:57:93:B1:CC:E0:53:36:EE:81:28:4C:00:73:61:39:A2:59:F3:94:F4:F0:87:A4"]
+      }
+    }]
